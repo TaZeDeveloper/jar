@@ -1,1 +1,1 @@
-worker: java -jar Bot.jar
+worker: java -jar target/target/sheltered-inlet-55170.jar
